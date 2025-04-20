@@ -16,6 +16,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0410-split-array-largest-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/AksayaVenugopal/DSA2/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0410-split-array-largest-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/AksayaVenugopal/DSA2/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/3790-fruits-into-baskets-ii) |
 ## Interactive
 |  |
@@ -66,4 +68,5 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AksayaVenugopal/DSA2/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
