@@ -10,6 +10,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AksayaVenugopal/DSA2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AksayaVenugopal/DSA2/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/AksayaVenugopal/DSA2/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1646-kth-missing-positive-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/3790-fruits-into-baskets-ii) |
@@ -21,6 +22,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AksayaVenugopal/DSA2/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/AksayaVenugopal/DSA2/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/AksayaVenugopal/DSA2/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1646-kth-missing-positive-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/3790-fruits-into-baskets-ii) |
@@ -36,4 +38,16 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/3790-fruits-into-baskets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
