@@ -69,4 +69,8 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0074-search-a-2d-matrix](https://github.com/AksayaVenugopal/DSA2/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
