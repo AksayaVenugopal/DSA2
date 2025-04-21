@@ -7,6 +7,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AksayaVenugopal/DSA2/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/AksayaVenugopal/DSA2/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AksayaVenugopal/DSA2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AksayaVenugopal/DSA2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AksayaVenugopal/DSA2/tree/master/0074-search-a-2d-matrix) |
@@ -73,4 +74,8 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0237-delete-node-in-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/AksayaVenugopal/DSA2/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
