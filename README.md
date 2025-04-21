@@ -115,9 +115,11 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AksayaVenugopal/DSA2/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AksayaVenugopal/DSA2/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
