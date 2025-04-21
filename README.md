@@ -112,4 +112,12 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AksayaVenugopal/DSA2/tree/master/0451-sort-characters-by-frequency) |
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
