@@ -94,6 +94,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/AksayaVenugopal/DSA2/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/AksayaVenugopal/DSA2/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AksayaVenugopal/DSA2/tree/master/0812-rotate-string) |
 ## String Matching
