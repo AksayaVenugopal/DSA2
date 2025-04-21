@@ -89,4 +89,12 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AksayaVenugopal/DSA2/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AksayaVenugopal/DSA2/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AksayaVenugopal/DSA2/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
