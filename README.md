@@ -52,6 +52,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AksayaVenugopal/DSA2/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -95,6 +96,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AksayaVenugopal/DSA2/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/AksayaVenugopal/DSA2/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AksayaVenugopal/DSA2/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/AksayaVenugopal/DSA2/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AksayaVenugopal/DSA2/tree/master/0812-rotate-string) |
@@ -124,4 +126,8 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | ------- |
 | [0050-powx-n](https://github.com/AksayaVenugopal/DSA2/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AksayaVenugopal/DSA2/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
