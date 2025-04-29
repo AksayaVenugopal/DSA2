@@ -149,5 +149,6 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AksayaVenugopal/DSA2/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/AksayaVenugopal/DSA2/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
