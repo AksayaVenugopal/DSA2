@@ -67,6 +67,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AksayaVenugopal/DSA2/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -130,4 +131,8 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AksayaVenugopal/DSA2/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
