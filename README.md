@@ -122,11 +122,13 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AksayaVenugopal/DSA2/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AksayaVenugopal/DSA2/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
@@ -137,4 +139,5 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | ------- |
 | [0190-reverse-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
