@@ -19,6 +19,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0410-split-array-largest-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0410-split-array-largest-sum) |
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/AksayaVenugopal/DSA2/tree/master/0907-koko-eating-bananas) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/AksayaVenugopal/DSA2/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1646-kth-missing-positive-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/3790-fruits-into-baskets-ii) |
@@ -153,5 +154,6 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0461-hamming-distance](https://github.com/AksayaVenugopal/DSA2/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/AksayaVenugopal/DSA2/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/AksayaVenugopal/DSA2/tree/master/1071-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
