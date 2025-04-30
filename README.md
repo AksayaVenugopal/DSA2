@@ -130,6 +130,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0050-powx-n](https://github.com/AksayaVenugopal/DSA2/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AksayaVenugopal/DSA2/tree/master/0342-power-of-four) |
+| [1610-xor-operation-in-an-array](https://github.com/AksayaVenugopal/DSA2/tree/master/1610-xor-operation-in-an-array) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -155,5 +156,6 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0476-number-complement](https://github.com/AksayaVenugopal/DSA2/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/AksayaVenugopal/DSA2/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1610-xor-operation-in-an-array](https://github.com/AksayaVenugopal/DSA2/tree/master/1610-xor-operation-in-an-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
