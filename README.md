@@ -157,5 +157,6 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/AksayaVenugopal/DSA2/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1610-xor-operation-in-an-array](https://github.com/AksayaVenugopal/DSA2/tree/master/1610-xor-operation-in-an-array) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/AksayaVenugopal/DSA2/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
