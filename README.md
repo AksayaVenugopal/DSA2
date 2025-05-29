@@ -162,6 +162,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/AksayaVenugopal/DSA2/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/AksayaVenugopal/DSA2/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/AksayaVenugopal/DSA2/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AksayaVenugopal/DSA2/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AksayaVenugopal/DSA2/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -211,4 +212,8 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/AksayaVenugopal/DSA2/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AksayaVenugopal/DSA2/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/AksayaVenugopal/DSA2/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
