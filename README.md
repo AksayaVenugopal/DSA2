@@ -27,6 +27,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/AksayaVenugopal/DSA2/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AksayaVenugopal/DSA2/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3778-transform-array-by-parity](https://github.com/AksayaVenugopal/DSA2/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -108,6 +109,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | ------- |
 | [0217-contains-duplicate](https://github.com/AksayaVenugopal/DSA2/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/AksayaVenugopal/DSA2/tree/master/0451-sort-characters-by-frequency) |
+| [3778-transform-array-by-parity](https://github.com/AksayaVenugopal/DSA2/tree/master/3778-transform-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AksayaVenugopal/DSA2/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/AksayaVenugopal/DSA2/tree/master/1635-number-of-good-pairs) |
+| [3778-transform-array-by-parity](https://github.com/AksayaVenugopal/DSA2/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
