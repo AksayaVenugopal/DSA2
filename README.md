@@ -23,6 +23,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [1071-binary-prefix-divisible-by-5](https://github.com/AksayaVenugopal/DSA2/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1635-number-of-good-pairs](https://github.com/AksayaVenugopal/DSA2/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1646-kth-missing-positive-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AksayaVenugopal/DSA2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/AksayaVenugopal/DSA2/tree/master/1791-richest-customer-wealth) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
@@ -109,6 +110,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0451-sort-characters-by-frequency](https://github.com/AksayaVenugopal/DSA2/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/AksayaVenugopal/DSA2/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/AksayaVenugopal/DSA2/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AksayaVenugopal/DSA2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AksayaVenugopal/DSA2/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
@@ -126,6 +128,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0782-jewels-and-stones](https://github.com/AksayaVenugopal/DSA2/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/AksayaVenugopal/DSA2/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/AksayaVenugopal/DSA2/tree/master/1205-defanging-an-ip-address) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AksayaVenugopal/DSA2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AksayaVenugopal/DSA2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/AksayaVenugopal/DSA2/tree/master/3379-score-of-a-string) |
 ## String Matching
@@ -145,6 +148,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AksayaVenugopal/DSA2/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/AksayaVenugopal/DSA2/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AksayaVenugopal/DSA2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3778-transform-array-by-parity](https://github.com/AksayaVenugopal/DSA2/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
@@ -188,6 +192,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/AksayaVenugopal/DSA2/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1610-xor-operation-in-an-array](https://github.com/AksayaVenugopal/DSA2/tree/master/1610-xor-operation-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AksayaVenugopal/DSA2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AksayaVenugopal/DSA2/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/3676-smallest-number-with-all-set-bits) |
