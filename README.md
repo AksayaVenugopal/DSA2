@@ -103,6 +103,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | ------- |
 | [0217-contains-duplicate](https://github.com/AksayaVenugopal/DSA2/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/AksayaVenugopal/DSA2/tree/master/0451-sort-characters-by-frequency) |
+| [0782-jewels-and-stones](https://github.com/AksayaVenugopal/DSA2/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/AksayaVenugopal/DSA2/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
@@ -117,6 +118,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0022-generate-parentheses](https://github.com/AksayaVenugopal/DSA2/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AksayaVenugopal/DSA2/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/AksayaVenugopal/DSA2/tree/master/0451-sort-characters-by-frequency) |
+| [0782-jewels-and-stones](https://github.com/AksayaVenugopal/DSA2/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/AksayaVenugopal/DSA2/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/AksayaVenugopal/DSA2/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AksayaVenugopal/DSA2/tree/master/2137-final-value-of-variable-after-performing-operations) |
