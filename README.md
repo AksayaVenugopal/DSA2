@@ -21,6 +21,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/AksayaVenugopal/DSA2/tree/master/0907-koko-eating-bananas) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/AksayaVenugopal/DSA2/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1635-number-of-good-pairs](https://github.com/AksayaVenugopal/DSA2/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1646-kth-missing-positive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
@@ -99,6 +100,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | ------- |
 | [0217-contains-duplicate](https://github.com/AksayaVenugopal/DSA2/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/AksayaVenugopal/DSA2/tree/master/0451-sort-characters-by-frequency) |
+| [1635-number-of-good-pairs](https://github.com/AksayaVenugopal/DSA2/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AksayaVenugopal/DSA2/tree/master/0451-sort-characters-by-frequency) |
+| [1635-number-of-good-pairs](https://github.com/AksayaVenugopal/DSA2/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AksayaVenugopal/DSA2/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/AksayaVenugopal/DSA2/tree/master/1610-xor-operation-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/AksayaVenugopal/DSA2/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
 | [2556-convert-the-temperature](https://github.com/AksayaVenugopal/DSA2/tree/master/2556-convert-the-temperature) |
