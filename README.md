@@ -23,6 +23,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [1071-binary-prefix-divisible-by-5](https://github.com/AksayaVenugopal/DSA2/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1646-kth-missing-positive-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
+| [2048-build-array-from-permutation](https://github.com/AksayaVenugopal/DSA2/tree/master/2048-build-array-from-permutation) |
 | [3790-fruits-into-baskets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
+| [2048-build-array-from-permutation](https://github.com/AksayaVenugopal/DSA2/tree/master/2048-build-array-from-permutation) |
 | [3790-fruits-into-baskets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
