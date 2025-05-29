@@ -23,6 +23,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [1071-binary-prefix-divisible-by-5](https://github.com/AksayaVenugopal/DSA2/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1635-number-of-good-pairs](https://github.com/AksayaVenugopal/DSA2/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1646-kth-missing-positive-number) |
+| [1791-richest-customer-wealth](https://github.com/AksayaVenugopal/DSA2/tree/master/1791-richest-customer-wealth) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/AksayaVenugopal/DSA2/tree/master/2048-build-array-from-permutation) |
@@ -89,6 +90,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0074-search-a-2d-matrix](https://github.com/AksayaVenugopal/DSA2/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
+| [1791-richest-customer-wealth](https://github.com/AksayaVenugopal/DSA2/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
 ## Linked List
 |  |
