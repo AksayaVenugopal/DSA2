@@ -22,6 +22,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0907-koko-eating-bananas](https://github.com/AksayaVenugopal/DSA2/tree/master/0907-koko-eating-bananas) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/AksayaVenugopal/DSA2/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1646-kth-missing-positive-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1646-kth-missing-positive-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/AksayaVenugopal/DSA2/tree/master/2048-build-array-from-permutation) |
 | [3790-fruits-into-baskets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/3790-fruits-into-baskets-ii) |
@@ -135,6 +136,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AksayaVenugopal/DSA2/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/AksayaVenugopal/DSA2/tree/master/1610-xor-operation-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
 | [2556-convert-the-temperature](https://github.com/AksayaVenugopal/DSA2/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AksayaVenugopal/DSA2/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -151,6 +153,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | ------- |
 | [0022-generate-parentheses](https://github.com/AksayaVenugopal/DSA2/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/AksayaVenugopal/DSA2/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +168,15 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/AksayaVenugopal/DSA2/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1610-xor-operation-in-an-array](https://github.com/AksayaVenugopal/DSA2/tree/master/1610-xor-operation-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AksayaVenugopal/DSA2/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/3676-smallest-number-with-all-set-bits) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
