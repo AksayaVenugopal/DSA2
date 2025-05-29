@@ -26,6 +26,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/AksayaVenugopal/DSA2/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AksayaVenugopal/DSA2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3790-fruits-into-baskets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | ------- |
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/AksayaVenugopal/DSA2/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AksayaVenugopal/DSA2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3790-fruits-into-baskets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
@@ -115,6 +117,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0451-sort-characters-by-frequency](https://github.com/AksayaVenugopal/DSA2/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AksayaVenugopal/DSA2/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/AksayaVenugopal/DSA2/tree/master/1205-defanging-an-ip-address) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AksayaVenugopal/DSA2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/AksayaVenugopal/DSA2/tree/master/3379-score-of-a-string) |
 ## String Matching
 |  |
