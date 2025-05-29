@@ -193,5 +193,6 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 ## Database
 |  |
 | ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/AksayaVenugopal/DSA2/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AksayaVenugopal/DSA2/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
