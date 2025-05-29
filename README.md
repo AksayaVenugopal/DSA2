@@ -21,6 +21,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/AksayaVenugopal/DSA2/tree/master/0907-koko-eating-bananas) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/AksayaVenugopal/DSA2/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/AksayaVenugopal/DSA2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/AksayaVenugopal/DSA2/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1646-kth-missing-positive-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AksayaVenugopal/DSA2/tree/master/1786-count-the-number-of-consistent-strings) |
