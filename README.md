@@ -134,6 +134,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0342-power-of-four](https://github.com/AksayaVenugopal/DSA2/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/AksayaVenugopal/DSA2/tree/master/1610-xor-operation-in-an-array) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/AksayaVenugopal/DSA2/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
