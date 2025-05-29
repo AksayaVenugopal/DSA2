@@ -190,4 +190,8 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Database
+|  |
+| ------- |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AksayaVenugopal/DSA2/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
