@@ -99,6 +99,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AksayaVenugopal/DSA2/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0908-middle-of-the-linked-list) |
@@ -178,6 +179,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AksayaVenugopal/DSA2/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/AksayaVenugopal/DSA2/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
