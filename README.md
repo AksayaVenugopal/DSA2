@@ -99,6 +99,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AksayaVenugopal/DSA2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -178,6 +179,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AksayaVenugopal/DSA2/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AksayaVenugopal/DSA2/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
