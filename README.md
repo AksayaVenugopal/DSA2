@@ -101,6 +101,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AksayaVenugopal/DSA2/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AksayaVenugopal/DSA2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -108,6 +109,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AksayaVenugopal/DSA2/tree/master/0027-remove-element) |
+| [0234-palindrome-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0234-palindrome-linked-list) |
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -183,6 +185,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0050-powx-n](https://github.com/AksayaVenugopal/DSA2/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/AksayaVenugopal/DSA2/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
 ## Backtracking
@@ -226,4 +229,8 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/AksayaVenugopal/DSA2/tree/master/2491-smallest-even-multiple) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
