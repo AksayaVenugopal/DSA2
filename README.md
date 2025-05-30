@@ -30,6 +30,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [2047-find-a-peak-element-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/AksayaVenugopal/DSA2/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AksayaVenugopal/DSA2/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/AksayaVenugopal/DSA2/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AksayaVenugopal/DSA2/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AksayaVenugopal/DSA2/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/AksayaVenugopal/DSA2/tree/master/3778-transform-array-by-parity) |
