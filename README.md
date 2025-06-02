@@ -99,6 +99,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AksayaVenugopal/DSA2/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AksayaVenugopal/DSA2/tree/master/0141-linked-list-cycle) |
@@ -112,6 +113,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/AksayaVenugopal/DSA2/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/AksayaVenugopal/DSA2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0142-linked-list-cycle-ii) |
