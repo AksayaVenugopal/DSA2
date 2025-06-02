@@ -6,6 +6,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AksayaVenugopal/DSA2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/AksayaVenugopal/DSA2/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AksayaVenugopal/DSA2/tree/master/0033-search-in-rotated-sorted-array) |
@@ -125,6 +126,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AksayaVenugopal/DSA2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/AksayaVenugopal/DSA2/tree/master/0217-contains-duplicate) |
