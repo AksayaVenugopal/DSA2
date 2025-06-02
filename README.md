@@ -110,6 +110,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0328-odd-even-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AksayaVenugopal/DSA2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0234-palindrome-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0234-palindrome-linked-list) |
 | [0861-flipping-an-image](https://github.com/AksayaVenugopal/DSA2/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
