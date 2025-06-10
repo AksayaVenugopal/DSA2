@@ -74,6 +74,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0119-pascals-triangle-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0050-powx-n](https://github.com/AksayaVenugopal/DSA2/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AksayaVenugopal/DSA2/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AksayaVenugopal/DSA2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/AksayaVenugopal/DSA2/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/AksayaVenugopal/DSA2/tree/master/1635-number-of-good-pairs) |
@@ -201,6 +203,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/AksayaVenugopal/DSA2/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/AksayaVenugopal/DSA2/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
@@ -247,4 +250,8 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AksayaVenugopal/DSA2/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AksayaVenugopal/DSA2/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
