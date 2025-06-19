@@ -15,6 +15,7 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0040-combination-sum-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/AksayaVenugopal/DSA2/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AksayaVenugopal/DSA2/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AksayaVenugopal/DSA2/tree/master/0162-find-peak-element) |
@@ -214,11 +215,13 @@ A collection of DSA questions! - Created using [LeetHub v2](https://github.com/a
 | [0039-combination-sum](https://github.com/AksayaVenugopal/DSA2/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AksayaVenugopal/DSA2/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AksayaVenugopal/DSA2/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AksayaVenugopal/DSA2/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/AksayaVenugopal/DSA2/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AksayaVenugopal/DSA2/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AksayaVenugopal/DSA2/tree/master/0231-power-of-two) |
